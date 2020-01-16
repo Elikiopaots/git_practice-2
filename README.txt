@@ -8,7 +8,6 @@ Want to try the reset using SHA
 
 Time to try some branching	
 
-<<<<<<< HEAD
 So now adding more stuff in new branch and merge
 
 Then probably do some merge conflict
