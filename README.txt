@@ -2,8 +2,6 @@ Hello Git and GitHub
 
 Try and make some changes
 
-Let's try again
+Let do it again again
 
-Add another one
-
-Last one
+Want to try the reset using SHA
