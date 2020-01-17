@@ -19,3 +19,5 @@ Going to make a branch then push again, so it won't merge with the master branch
 Now make changes and merge again in mygp but in new-gp branch
 
 Now make more changes, to see if this overwrite mygp. Now is origin master.
+
+Shag, let's make changes to see if this will overwrite mygp-newgp branch or will it have conflict like merging with mygp-master
