@@ -13,3 +13,5 @@ So now adding more stuff in new branch and merge
 Then probably do some merge conflict
 
 Eh so I gonna make some changes, and push to origin to see if it works.
+
+Going to make a branch then push again, so it won't merge with the master branch in origin.
