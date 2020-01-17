@@ -17,3 +17,5 @@ Eh so I gonna make some changes, and push to origin to see if it works.
 Going to make a branch then push again, so it won't merge with the master branch in origin.
 
 Now make changes and merge again in mygp but in new-gp branch
+
+Now make more changes, to see if this overwrite mygp. Now is origin master.
